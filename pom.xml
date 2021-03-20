@@ -38,7 +38,6 @@
             <artifactId>spring-boot-starter</artifactId>
         </dependency>
 
-        <!-- For testing possibility -->
         <dependency>
             <groupId>org.springframework.boot</groupId>
             <artifactId>spring-boot-starter-test</artifactId>
