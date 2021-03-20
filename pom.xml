@@ -63,7 +63,6 @@
             <version>5.0.5.Final</version>
         </dependency>
 
-        <!-- In-Memory DB -->
         <dependency>
             <groupId>com.h2database</groupId>
             <artifactId>h2</artifactId>
