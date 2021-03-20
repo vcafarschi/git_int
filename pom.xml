@@ -8,7 +8,6 @@
     <version>0.0.1-SNAPSHOT</version>
     <packaging>war</packaging>
 
-    <name>Spring boot application example</name>
     <description>Test project</description>
 
     <organization>
