@@ -22,7 +22,7 @@
 ddddd
 # -----------------
 #   MAVEN_OPTS - parameters passed to the Java VM when running Maven
-#     e.g. to debug Maven itself, use
+#   MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 # ----------------------------------------------------------------------------
 
 if [ -z "$MAVEN_SKIP_RC" ] ; then
