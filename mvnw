@@ -47,7 +47,7 @@ case "`uname`" in
   Darwin*) darwin=true
            #
            # Look for the Apple JDKs first to preserve the existing behaviour, and then look
-           # for the new JDKs provided by Oracle.
+     vvvv      # for the new JDKs provided by Oracle.
            #
            if [ -z "$JAVA_HOME" ] && [ -L /System/Library/Frameworks/JavaVM.framework/Versions/CurrentJDK ] ; then
              #
