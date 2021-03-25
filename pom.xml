@@ -11,10 +11,6 @@
     <name>Spring boot application example</name>
     <description>Test project</description>
 
-    <organization>
-        <name>Alex Manrique</name>
-        <url>http://www.alexmanrique.com</url>
-    </organization>
 
     <parent>
         <groupId>org.springframework.boot</groupId>
