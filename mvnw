@@ -24,7 +24,7 @@ ddddd
 #   MAVEN_OPTS - parameters passed to the Java VM when running Maven
 #   MAVEN_SKIP_RC - flag to disable loading of mavenrc files
 # ----------------------------------------------------------------------------
-
+ddd
 if [ -z "$MAVEN_SKIP_RC" ] ; then
 
   if [ -f /etc/mavenrc ] ; then
